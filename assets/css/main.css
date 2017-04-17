@@ -1,0 +1,13 @@
+div{
+  font-family: 'Josefin Sans', sans-serif;
+  padding-bottom:30px;
+}
+.bloque1,.bloque3{
+  background: #FFC300;
+}
+.bloque2{
+  background: #E74C3C;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
