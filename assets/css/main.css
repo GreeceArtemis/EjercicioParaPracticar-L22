@@ -1,14 +1,10 @@
 div{
-  display: block;
+  display: inline;
   text-align: left;
   font-family: 'Josefin Sans', sans-serif;
-  padding-bottom:30px;
-  padding-top: 5px;
-  padding-left: 5px;
+  padding:5px;
   width: 200px;
-  height: 50px;
   margin: 20px auto;
-
 }
 .bloque1,.bloque3{
   background: #FFC300;
