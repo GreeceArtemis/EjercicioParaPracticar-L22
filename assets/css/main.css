@@ -1,22 +1,29 @@
-div{
-  display: inline-block;
-  text-align: left;
-  font-family: 'Josefin Sans', sans-serif;
-  padding-bottom:30px;
-  padding-top: 5px;
-  padding-left: 5px;
-  width: 160px;
-  height: 50px;
-  margin: 20px auto;
-}
-.bloque1,.bloque3{
-  background: #FFC300;
-}
-.bloque2{
-  background: #E74C3C;
-
-}
 body{
   display: block;
-  text-align: center;
+}
+.contenedorTotal{
+  display: inline-block;
+  text-align: left;
+  margin-left: 20%;
+}
+.cubo1{
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background: red;
+}
+.contenedor1{
+  display: inline-block;
+  background: blue;
+  margin:20px;
+}
+.cubo1,.cubo2{
+  border: 1px solid black;
+  margin:20px;
+}
+li{
+  list-style: none;
+}
+ul{
+  padding-left: 0;
 }
